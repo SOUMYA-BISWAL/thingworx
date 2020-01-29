@@ -180,4 +180,30 @@
 22. then migrate query
     python manage.py migrate
 
+23. create super user
+    python manage.py createsuperuser
+    (OUTPUT:-
+        captureshot.Header.number: (fields.W122) 'max_length' is ignored when used with IntegerField.
+        HINT: Remove 'max_length' from field
+        Username (leave blank to use 'soumya'): soumya
+        Email address: soumya@ltts.com
+        Password:soumya
+        Password (again):soumya
 
+    )
+
+24. run server and hit url /admin
+
+https://www.youtube.com/watch?v=iLhcV7t3zug&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=101
+
+https://www.youtube.com/watch?v=ExTaxRmDnP8&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=102
+
+https://www.youtube.com/watch?v=6Q5OVCKufBU&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=103
+
+https://www.youtube.com/watch?v=JXBCw_4gwc0&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=104
+
+https://www.youtube.com/watch?v=Mf_97YaUKag&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=105
+
+https://www.youtube.com/watch?v=teaeVbcT9BI&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=106
+
+https://www.youtube.com/watch?v=iT15mk4y1iw&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=107
